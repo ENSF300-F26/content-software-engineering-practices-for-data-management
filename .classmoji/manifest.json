@@ -1,5 +1,16 @@
 {
-  "repositories": {},
+  "repositories": {
+    "github-and-collaboration-basics": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "endg233-project-refactoring": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
   "general": {
     "pages": [],
     "slides": []
